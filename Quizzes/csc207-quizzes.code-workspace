@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "Quizzes/Quiz-1.4"
+		},
+		{
+			"path": "Quizzes/Quiz-1.7"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.classpath": true,
+			"**/.project": true,
+			"**/.settings": true,
+			"**/.factorypath": true
+		}
+	}
+}
